@@ -12,7 +12,7 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
     background-blend-mode: darken;
-    background-color: rgba(0, 0, 0, 0.658);
+    background-color: rgba(0, 0S, 0, 0.658);
     background-size: max(1200px, 100vw);
 }
 .navbar{
